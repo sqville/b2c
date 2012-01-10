@@ -1,0 +1,12 @@
+#
+# All directories
+#
+# Please comment on purpose.
+
+
+# SharpDevelop
+/b2c.vbproj
+/b2c.vbproj.user
+/obj/
+/bin/
+/BitMapToCode_TemporaryKey.pfx
