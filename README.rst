@@ -3,7 +3,7 @@ About
 
 b2c (Bitmap to Code) is an internal development tool designed to automate the creation of aie themes. Simply put, the b2c tool reads bitmap files and coverts the bitmap's information (such as color and position) into javascript code in the form of array entries.
 
-BitMaptoCode - This folder contains the first incarnation of the b2c tool. This verson is a Windows desktop application written in VB.Net and will be referred to in the following sections as b2c-vb.
+b2c-vb - This folder contains the first incarnation of the b2c tool. This verson is a Windows desktop application written in VB.Net.
 
 
 Roadmap
