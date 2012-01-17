@@ -12,21 +12,3 @@ Public License (LGPL).
 
 For more information please see Link to license
 
-
-Quick start
-===========
-
-Here is a quick start guide.
-
-
-Learn more
-==========
-
-* About b2c
-  Link to page
-
-* Release notes
-  Link to notes
-
-* User manual
-  Link to manual
