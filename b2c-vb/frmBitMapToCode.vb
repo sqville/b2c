@@ -367,7 +367,7 @@ Namespace BitmapToCode
         	'
         	'openFileDialog1
         	'
-        	Me.openFileDialog1.Filter = "Bitmap Images|*.bmp"
+        	Me.openFileDialog1.Filter = "Bitmap Images|*.bmp|Portable Network Graphics|*.png"
         	'
         	'txtHTML
         	'
@@ -398,6 +398,7 @@ Namespace BitmapToCode
         	Me.btnLoad.Size = New System.Drawing.Size(64, 23)
         	Me.btnLoad.TabIndex = 1
         	Me.btnLoad.Text = "Load"
+        	AddHandler Me.btnLoad.Click, AddressOf Me.BtnLoadClick
         	'
         	'txtCopyToClipboard
         	'
@@ -766,6 +767,8 @@ Namespace BitmapToCode
         Private Sub rbwrtb_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles rbwrtb.Click
             Me.lblFunctionDesc.Text = "Width, Right, Top, Bottom"
         End Sub
+        
+        
         
     End Class
 End Namespace

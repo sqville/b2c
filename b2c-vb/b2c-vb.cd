@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="b2c_vb.My.MyApplication" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="2.356413" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="b2c_vb.My.MyComputer" Collapsed="False">
+    <Position X="0.5" Y="1.9" Width="2.356413" />
+    <Compartments />
+  </Class>
+  <Class Name="b2c_vb.My.MyForms" Collapsed="False">
+    <Position X="0.5" Y="2.9" Width="2.448004" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="b2c_vb.My.MyProject" Collapsed="False">
+    <Position X="0.5" Y="4.3" Width="2.44466" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="BitMapToCode.BitmapToCode.frmBitmapToCode" Collapsed="False">
+    <Position X="0.5" Y="6.2" Width="2.266432" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="BitMapToCode.My.Resources.Resources" Collapsed="False">
+    <Position X="0.5" Y="16.1" Width="2.472174" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="BitMapToCode.My.MyApplication" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="1.807365" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="BitMapToCode.My.MySettings" Collapsed="False">
+    <Position X="0.5" Y="19.6" Width="2.186242" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="BitMapToCode.My.MySettingsProperty" Collapsed="False">
+    <Position X="0.5" Y="22" Width="1.579391" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>
