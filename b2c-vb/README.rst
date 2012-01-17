@@ -10,5 +10,5 @@ License
 b2c-vb may be used under the terms of either the GNU Lesser General
 Public License (LGPL).
 
-For more information please see Link to license
+For more information please see Link to home page
 
