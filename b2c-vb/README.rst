@@ -23,7 +23,7 @@ Learn more
 ==========
 
 * About b2c
-  http://sqville.com/b2c
+  Link to page
 
 * Release notes
   Link to notes
