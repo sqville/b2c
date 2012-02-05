@@ -15,7 +15,7 @@ Roadmap
 
 * b2c-vb version 1.0 - Accompanied with user guide to make available for public consumption. Main focus is to greatly reduce aie theme development time.
 
-* b2c-js - Future version of b2c tool written mostly in javascript and utilizing tools such as Adobe AIR, Node.js and PHP for use on platforms (OSX, web) other than Windows.   
+* b2c-js - Future version of b2c tool written mostly in javascript and utilizing tools such as Appcelerator, Node.js and PHP for use on platforms (OSX, Linux, web, mobile) other than Windows.   
 
 
 License
