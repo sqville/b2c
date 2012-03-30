@@ -107,7 +107,6 @@ Namespace BitmapToCode
 
             Dim bitmap As Bitmap
             Dim strbHTML As New StringBuilder()
-            Dim classMgr As New CSSClassManager()
             'Dim intWidth As Integer
             Dim strPreviousPixelName As String = ""
             Dim strCurrentPixelName As String = ""
