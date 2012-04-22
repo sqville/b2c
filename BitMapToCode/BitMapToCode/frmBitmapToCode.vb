@@ -104,7 +104,7 @@ Namespace BitmapToCode
         ''' <param name="sender">button</param>
         ''' <param name="e">empty</param>
         Private Sub btnLoad_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnLoad.Click
-
+ ''testing github again
 			Dim bitmap As Bitmap
             Dim strbHTML As New StringBuilder()
             'Dim intWidth As Integer
