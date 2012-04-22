@@ -105,7 +105,7 @@ Namespace BitmapToCode
         ''' <param name="e">empty</param>
         Private Sub btnLoad_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnLoad.Click
 
-            Dim bitmap As Bitmap
+			Dim bitmap As Bitmap
             Dim strbHTML As New StringBuilder()
             'Dim intWidth As Integer
             Dim strPreviousPixelName As String = ""
@@ -118,7 +118,6 @@ Namespace BitmapToCode
             Dim intvLeft As Integer = 0
             Dim blnLoadArray As Boolean = Me.ckbLoadArray.Checked
             Dim strPaintFunction As String = ""
-
 
             ' try to load the file using the path
             Try
